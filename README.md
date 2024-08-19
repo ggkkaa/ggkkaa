@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ggkkaa
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning TypeScript
-- 💞️ I’m looking to collaborate on Polus.gg
-- 📫 How to reach me luka.talevski.hn@gmail.com
+- I have no idea what I'm doing so the stuff I contribute to will probably end up as mostly things I hacked together
 
 <!---
 ggkkaa/ggkkaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
