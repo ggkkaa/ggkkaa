@@ -29,7 +29,7 @@
 
   - :telescope: I’m working as a Game Developer.
 
-  - :seedling: Trying to find the cause of that page fault.
+  - :seedling: Learning Web Development because I'm bored
 
   - :zap: In my free time, I work on my many hobby projects.
 
